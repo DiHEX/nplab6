@@ -1,0 +1,99 @@
+commit 04333d4c66745cbfd4fb9393efca18ee5ed5f4ce
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 20:29:45 2022 +0100
+
+    Edit #3 readme.md
+
+commit 54974405271d88cfb3f0b03424b5c5b39e46c400
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 20:29:14 2022 +0100
+
+    Edit #2 readme.md
+
+commit 35e4e272d8a831f0b8ebe156056f899346b00c28
+Merge: 2e02176 dca3286
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 20:25:04 2022 +0100
+
+    Merge branch 'main' of https://github.com/DiHEX/nplab6 into main
+
+commit 2e021760f686e54bb027ed4274a7d251d6fa7a3b
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 20:24:09 2022 +0100
+
+    Edit #1 readme.md
+
+commit dca32861536f3ae69f89a4935afe79a6a2581f5f
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 20:22:24 2022 +0100
+
+    Skompilowany program
+
+commit 3714456382baa639c0e378647b9a512416636eff
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 20:16:50 2022 +0100
+
+    Wyczyszone pliki
+
+commit 28ae9a56e3ce48db0a19fb8e1b15f92ec1fd4a0c
+Merge: 0f5b87b da865e5
+Author: Turbiak <98244013+Turbiak@users.noreply.github.com>
+Date:   Sat Jan 29 18:43:06 2022 +0100
+
+    Merge pull request #2 from DiHEX/galaz1
+    
+    Dodaje programc
+
+commit da865e5696403b9e78e57601695363ad65fca7a3
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 18:19:50 2022 +0100
+
+    Dodaje programc
+
+commit 0f5b87b69353c8fd61b38ce8f102ff1c1b88d7a5
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 17:20:34 2022 +0100
+
+    Dodanie 2 plikow html
+
+commit 21b94c816002df1f9a16aa67302286ea613a8e08
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 17:04:56 2022 +0100
+
+    Dodałem index, script i style
+
+commit 3e7d211ea9f24d3dcb7cc8d0087105ad03169f51
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 16:58:22 2022 +0100
+
+    tworze plik readme
+
+commit ee7f4f7ef0feff91266cc85a3e336bdcfdd79641
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 16:36:57 2022 +0100
+
+    Dodaje plik skompilowany Hello World
+
+commit 780259ea66b34cd7a72a7fc0668c936f5ff048b9
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 16:36:30 2022 +0100
+
+    Usunąłem README
+
+commit f67cf125ee4d22c71f146965b75491fbc9081ae3
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 16:33:23 2022 +0100
+
+    Dodaje pliki
+
+commit 2129027a6ae0f9473965711d4cf445c43044f424
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 16:12:35 2022 +0100
+
+    Test na readme
+
+commit 0c086fbc77b0e3273968ddf93c3df8477068850a
+Author: DiHEX <98027404+DiHEX@users.noreply.github.com>
+Date:   Sat Jan 29 15:28:19 2022 +0100
+
+    Initial commit

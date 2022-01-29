@@ -5,4 +5,5 @@
 #include "fun1.h"
 void fun3(){
     printf("Plik fun3.c uruchamia sie\n");
+		printf("Dobranoc");
 }

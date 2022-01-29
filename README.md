@@ -3,4 +3,4 @@ Tomasz
 Michal
 Jakub
 -----
-nie zapominajmy o Kaspianie
+nie zapominajmy o Kacprze

@@ -4,5 +4,5 @@
 #include <stdio.h>
 #include "fun1.h"
 void fun1(){
-    printf("Fun1.c dziala\n");
+    printf("Fun1.c dziala fajnie\n");    	
 }

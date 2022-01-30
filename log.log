@@ -1,0 +1,261 @@
+commit 4cb10084e3aff980699845499eb6bab3cc5e5e74
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 17:24:46 2022 +0100
+
+    Dodanie paragrafu
+
+ drugi.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 25efd8ddaa5bb2eaf7dd6c09db5df20a419bddcf
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 17:04:58 2022 +0100
+
+    Podpisanie czlonkow grupy w main.c
+
+ programc/main.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit c83469956a17d40c8158ffb5f69e9b24b0804001
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 16:41:55 2022 +0100
+
+    dodanie funkcjonalnosci do main.c
+
+ programc/main.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 03dfadc817c2f5b2a41123b1c52595acf537b226
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 16:38:17 2022 +0100
+
+    nowy plik c
+
+ programc/fun4.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 3c44a6ba20c8e7b02f31544c3eb15d7ff47d3aea
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 16:28:15 2022 +0100
+
+    dodanie wywolania 4tej funckji z nowego pliku c
+
+ programc/main.c | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+
+commit 8c5b23bc58a99bd5fe08f62aa5531565d2361689
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 16:25:31 2022 +0100
+
+    dodanie paragrafu
+
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3783f75382860c76e49d65ad3fc4e7355bf7135c
+Author: jfilar <jakfil001@pbs.edu.pl>
+Date:   Sun Jan 30 16:23:03 2022 +0100
+
+    zmiana wielkosci czcionki naglowka w style.css
+
+ style.css | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3a6379c80d01d7312165077cd5138033b712abe3
+Merge: b01cc06 598d8e9
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:55:32 2022 +0100
+
+    Merge branch 'galaz1' of https://github.com/DiHEX/nplab6 into galaz1
+    Probuje to naprawic
+
+commit b01cc06a74921257cffbcde95adcbd4f38ef6e04
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:42:34 2022 +0100
+
+    Zmiany w tekscie fun1.c
+
+ programc/fun1.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 598d8e920eb3de74cce97fde39840dbc2754c34d
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 19:31:10 2022 +0100
+
+    Dodaje fun1 go gałęzi 1
+
+ programc/fun1.c | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+
+commit 4e9a7b945f0b30a2e4574b3343481b12cd35c74b
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:31:01 2022 +0100
+
+    Ponowne dodanie usunietego pliku
+
+ programc/fun1.c | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit d60068a1c19ba5d673b65e03daabeb29756cd1c5
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:25:50 2022 +0100
+
+    program.c zostal w jakis sposob zmieniony wiec go aktualizuje
+
+ program.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 93abeea563dda548a50bb530700985c3e26c9941
+Merge: 9b1fe39 28ae9a5
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:19:22 2022 +0100
+
+    Merge branch 'main' into galaz1
+    Turbiak jest za to odpowiedzialny
+
+commit 9b1fe39e0793eea02f85f379240e36dcd50532f1
+Merge: 26a4a05 0f5b87b
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 19:15:21 2022 +0100
+
+    Merge branch 'main' into galaz1
+
+commit 26a4a0512a6cbd139581e6802de4af1c7f3dc940
+Merge: 2141d8e 94054ce
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:08:42 2022 +0100
+
+    Merge branch 'galaz1' of https://github.com/DiHEX/nplab6 into galaz1
+
+commit 2141d8e6c52601a334e66d7654e30feb8594bcbd
+Merge: 4c9ed54 bce0e55
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 19:06:01 2022 +0100
+
+    Merge branch 'galaz1' of https://github.com/DiHEX/nplab6 into galaz1
+    To co na górze powiedział komputer
+
+commit 94054ce693135158c82c706fc8d80dc5cae44690
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 19:00:26 2022 +0100
+
+    Dodałem słowo fajnie do wyświetlenia po raz drugi :)
+
+ programc/fun1.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 4c9ed5431b6150446ab36d142dbdefd1b81d6338
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 18:50:01 2022 +0100
+
+    Dodano wyswietlany tekst
+
+ programc/fun1.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit bce0e55ae7ac80893a2fd0ac98a0bd79c0ab4c80
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 18:49:46 2022 +0100
+
+    Dodałem słowo fajnie do wyświetlenia
+
+ programc/fun1.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 28ae9a56e3ce48db0a19fb8e1b15f92ec1fd4a0c
+Merge: 0f5b87b da865e5
+Author: Turbiak <98244013+Turbiak@users.noreply.github.com>
+Date:   Sat Jan 29 18:43:06 2022 +0100
+
+    Merge pull request #2 from DiHEX/galaz1
+    
+    Dodaje programc
+
+commit da865e5696403b9e78e57601695363ad65fca7a3
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 18:19:50 2022 +0100
+
+    Dodaje programc
+
+ programc/fun1.c |  8 ++++++++
+ programc/fun1.h | 16 ++++++++++++++++
+ programc/fun2.c |  8 ++++++++
+ programc/fun3.c |  8 ++++++++
+ programc/main.c |  9 +++++++++
+ 5 files changed, 49 insertions(+)
+
+commit 0f5b87b69353c8fd61b38ce8f102ff1c1b88d7a5
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 17:20:34 2022 +0100
+
+    Dodanie 2 plikow html
+
+ drugi.html  | 14 ++++++++++++++
+ index.html  |  2 ++
+ trzeci.html | 14 ++++++++++++++
+ 3 files changed, 30 insertions(+)
+
+commit 21b94c816002df1f9a16aa67302286ea613a8e08
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 17:04:56 2022 +0100
+
+    Dodałem index, script i style
+
+ index.html | 13 +++++++++++++
+ script.js  |  1 +
+ style.css  |  9 +++++++++
+ 3 files changed, 23 insertions(+)
+
+commit 3e7d211ea9f24d3dcb7cc8d0087105ad03169f51
+Author: KarNow <karnow010@pbs.edu.pl>
+Date:   Sat Jan 29 16:58:22 2022 +0100
+
+    tworze plik readme
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit ee7f4f7ef0feff91266cc85a3e336bdcfdd79641
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 16:36:57 2022 +0100
+
+    Dodaje plik skompilowany Hello World
+
+ a.out | Bin 0 -> 16704 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 780259ea66b34cd7a72a7fc0668c936f5ff048b9
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 16:36:30 2022 +0100
+
+    Usunąłem README
+
+ README.md | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit f67cf125ee4d22c71f146965b75491fbc9081ae3
+Author: Tomasz Turbiak <tomtur000@pbs.edu.pl>
+Date:   Sat Jan 29 16:33:23 2022 +0100
+
+    Dodaje pliki
+
+ program.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 2129027a6ae0f9473965711d4cf445c43044f424
+Author: DiHEX <kaligramxd@gmail.com>
+Date:   Sat Jan 29 16:12:35 2022 +0100
+
+    Test na readme
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 0c086fbc77b0e3273968ddf93c3df8477068850a
+Author: DiHEX <98027404+DiHEX@users.noreply.github.com>
+Date:   Sat Jan 29 15:28:19 2022 +0100
+
+    Initial commit
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
